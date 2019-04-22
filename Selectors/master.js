@@ -1,4 +1,3 @@
-
 /* #1 HEADING SELECTION EXAMPLES USING .hide()
 
     $('h3').hide();  // Hides All h3 Headers
