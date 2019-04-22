@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+body {
+  font-family: Merriweather, sans-serif;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  background-image: linear-gradient(to right, black, grey);
+  line-height: 1.5em;
+}
+
+header {
+  background-image: linear-gradient(to right, black, grey);
+  color: white;
+  padding:20px;
+  text-align: center;
+  border-bottom: 4px black solid;
+  margin-bottom: 10px;
+}
+
+#container{
+  width: 90%;
+  margin: auto;
+  padding: 10px;
+}
+
+/* THIS CLASS ADDED AS 'addClass' EXAMPLE IN master.js - NOT IN THE html FILE */
+.myClass {
+  color: blue;
+  background: black;
+}
