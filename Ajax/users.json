@@ -1,0 +1,31 @@
+[
+  {
+    "firstName": "Danny",
+    "lastName": "Carey",
+    "email": "dcarey@gmail.com"
+  },
+
+  {
+    "firstName": "Jerry",
+    "lastName": "Cantrell",
+    "email": "jcantrell@gmail.com"
+  },
+
+  {
+    "firstName": "Dave",
+    "lastName": "Grohl",
+    "email": "dgrohl@gmail.com"
+  },
+
+  {
+    "firstName": "Mike",
+    "lastName": "McCready",
+    "email": "mmccready@gmail.com"
+  },
+
+  {
+    "firstName": "Tom",
+    "lastName": "Morello",
+    "email": "@gmail.com"
+  }
+]
