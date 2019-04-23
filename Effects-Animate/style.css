@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+body {
+  font-family: Merriweather, sans-serif;
+  text-align: center;
+  font-size: 25px;
+  color: white;
+  background-image: linear-gradient(to right, black, grey);
+  line-height: 1.5em;
+}
+
+header {
+  background-image: linear-gradient(to right, black, grey);
+  color: white;
+  padding:20px;
+  text-align: center;
+  border-bottom: 4px black solid;
+  margin-bottom: 10px;
+}
+
+#container{
+  width: 90%;
+  margin: auto;
+  padding: 10px;
+}
+
+#box {
+  background: #333;
+  color: #fff;
+  width: 500px;
+  height: 90px;
+  padding: 40px;
+  text-align: center;
+}
+
+#box2 {
+  background: red;
+  width: 100px;
+  height: 100px;
+  position: relative;
+}
